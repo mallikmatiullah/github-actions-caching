@@ -21,7 +21,7 @@ By leveraging Docker Buildx and GitHub Actions, this demo:
 ## Repository Structure
 ```
 .
-├── .github/workflows/ci.yml  # GitHub Actions workflow
+├── .github/workflows/ci.yml                # GitHub Actions workflow
 ├── Dockerfile                              # Dockerfile for the app
 ├── requirements.txt                        # Python dependencies
 └── app.py                                  # Flask application
